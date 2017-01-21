@@ -1,4 +1,4 @@
-# Learning Reactive Programming With Java 8 Example Runner
+# Learning Reactive Programming With Java 8
 This project contains the examples of the 'Learning Reactive Programming With Java 8' book.
 
 ## Installing and running this program.
