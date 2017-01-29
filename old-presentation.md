@@ -1,3 +1,10 @@
+category: presentation
+tags:
+  - presentation
+  - 2014
+title_image_path: freedom.png
+<><><><><><><><>
+
 # Презентация от 2014 година
 ## Презентация : За свободата, програмиста и менажерията
 
