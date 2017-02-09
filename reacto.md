@@ -1,3 +1,9 @@
+published: false
+tags:
+  - ruby
+  - reactive
+  - 2016
+<><><><><><><><>
 # Reacto
 
 Reactive Programming for Ruby with some concurrency thrown into the mix!
