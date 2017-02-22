@@ -1,3 +1,6 @@
+category: reactive
+<><><><><><><><>
+
 # Learning Reactive Programming With Java 8
 This project contains the examples of the 'Learning Reactive Programming With Java 8' book.
 
