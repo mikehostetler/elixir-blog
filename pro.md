@@ -3,7 +3,8 @@ tags:
   - js
   - 2014
   - reactive
- category: pro
+category: pro
+
 <><><><><><><><>
 # Pro.js
   The project is renamed and permanently moved to [https://github.com/proactjs/proactjs](https://github.com/proactjs/proactjs)
