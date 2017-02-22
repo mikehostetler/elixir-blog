@@ -1,4 +1,4 @@
-category: reactive
+category: reactive programming
 <><><><><><><><>
 
 # Learning Reactive Programming With Java 8
