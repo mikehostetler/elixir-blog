@@ -2,7 +2,7 @@ category: reactive programming
 pinned: true
 <><><><><><><><>
 
-# Learning Reactive Programming
+# Learning Reactive
 This project contains the examples of the 'Learning Reactive Programming With Java 8' book.
 
 ## Installing and running this program.
