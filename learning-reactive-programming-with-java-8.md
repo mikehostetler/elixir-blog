@@ -1,4 +1,5 @@
 category: reactive programming
+pinned: true
 <><><><><><><><>
 
 # Learning Reactive Programming With Java 8
