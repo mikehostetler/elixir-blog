@@ -10,10 +10,6 @@ category: pro
   The project is renamed and permanently moved to [https://github.com/proactjs/proactjs](https://github.com/proactjs/proactjs)
 
 
-## Download
- * [Development](https://raw.github.com/meddle0x53/pro.js/master/dist/js/pro.js)
- * [Production](https://raw.github.com/meddle0x53/pro.js/master/dist/js/pro.min.js)
-
 ## About pro.js
   Reactive JavaScript object properties. In other words object oriented implementation of the [Reactive paradigm in the programming](http://en.wikipedia.org/wiki/Reactive_programming) in Javascript.
   In human language the reactive idea is the following: if we define sum=a+b and we change 'a' or 'b', 'sum' is automatically calculated.
