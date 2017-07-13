@@ -12,4 +12,3 @@ title_image_path: freedom.png
  * [ProAct.js](http://proactjs.github.io/) - Дайте звездичка, fork-нете, ползвайте!
  * [TodoMVC ProAct](https://github.com/meddle0x53/todomvc-proact) - Разцъкайте!
  * [CorrectIt!](https://chrome.google.com/webstore/detail/correctit/geeffofpcmdipnfemdagcmmdmmepkbmd) - Инсталирайте в Chrome!
- * [Livemargin Reader](https://chrome.google.com/webstore/detail/livemargin-reader/jminbmlllkegeeiolmchgekeepoephbg) - Инсталирайте в Chrome!
