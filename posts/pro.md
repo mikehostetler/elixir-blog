@@ -7,18 +7,6 @@ category: pro
 
 <><><><><><><><>
 # Pro.js
-
-### Use in sites
-```html
-  <script src="pro.js" type="text/javascript"></script>
-  <!-- Pro will be global object -->
-```
-or
-```html
-  <script src="pro.min.js" type="text/javascript"></script>
-  <!-- Pro will be global object -->
-```
-
 ### Use as Node.js module [![NPM version](https://badge.fury.io/js/pro.js.svg)](http://badge.fury.io/js/pro.js)
 ```
   npm install pro.js
