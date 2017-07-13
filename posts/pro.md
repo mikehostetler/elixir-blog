@@ -7,14 +7,6 @@ category: pro
 
 <><><><><><><><>
 # Pro.js
-### Use as Node.js module [![NPM version](https://badge.fury.io/js/pro.js.svg)](http://badge.fury.io/js/pro.js)
-```
-  npm install pro.js
-```
-
-```javascript
-  var Pro = require('pro.js');
-```
 
 ### Build from source
   * Install Node.js and its package manager 'npm'
