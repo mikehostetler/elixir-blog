@@ -7,12 +7,7 @@ category: pro
 
 <><><><><><><><>
 # Pro.js
-  The project is renamed and permanently moved to [https://github.com/proactjs/proactjs](https://github.com/proactjs/proactjs)
 
-### Compatibility 
-  Pro.js is compatible with all the ECMAScript 5 browsers.
-  For example Google's Chrome, Mozilla's Firefox, Apple's Safari, Opera, and the newest IEs - 10 and 11 (Tested with chrome and firefox, will be tested agains the others soon).
-  
 ### Use in sites
 ```html
   <script src="pro.js" type="text/javascript"></script>
