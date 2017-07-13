@@ -5,9 +5,7 @@ tags:
 title_image_path: freedom.png
 <><><><><><><><>
 
-# Презентация : За свободата, програмиста и менажерията
-
-### Презентацията
+# За свободата, програмиста и менажерията
 
 ### Свързани проекти
  * [Ember.js Presentation @OpenFest 2013](https://www.youtube.com/watch?v=NFucKn6ONUM) - Вижте!
@@ -15,4 +13,3 @@ title_image_path: freedom.png
  * [TodoMVC ProAct](https://github.com/meddle0x53/todomvc-proact) - Разцъкайте!
  * [CorrectIt!](https://chrome.google.com/webstore/detail/correctit/geeffofpcmdipnfemdagcmmdmmepkbmd) - Инсталирайте в Chrome!
  * [Livemargin Reader](https://chrome.google.com/webstore/detail/livemargin-reader/jminbmlllkegeeiolmchgekeepoephbg) - Инсталирайте в Chrome!
- * [Rails + Ember.js Demo](https://github.com/meddle0x53/tmangr) - Разцъкайте... малко е старичко
