@@ -9,4 +9,3 @@ title_image_path: freedom.png
 
 ### Свързани проекти
  * [Ember.js Presentation @OpenFest 2013](https://www.youtube.com/watch?v=NFucKn6ONUM) - Вижте!
- * [ProAct.js](http://proactjs.github.io/) - Дайте звездичка, fork-нете, ползвайте!
