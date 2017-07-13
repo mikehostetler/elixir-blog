@@ -2,7 +2,6 @@ tags:
   - old
   - js
   - 2014
-  - reactive
 category: pro
 
 <><><><><><><><>
