@@ -1,10 +1,12 @@
+---
 tags:
   - old
   - js
   - 2014
   - reactive
 title: Wooo
-<><><><><><><><>
+---
+
 # Pro.js
   The project is renamed and permanently moved to [https://github.com/proactjs/proactjs](https://github.com/proactjs/proactjs)
 
